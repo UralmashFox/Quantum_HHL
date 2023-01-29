@@ -1,0 +1,8 @@
+gate-matrix transpillation
+https://qiskit.org/documentation/tutorials/operators/01_operator_flow.html
+
+hhl
+https://qiskit.org/textbook/ch-applications/hhl_tutorial.html
+
+the paper I copied
+https://www.nature.com/articles/s41598-022-17660-8
